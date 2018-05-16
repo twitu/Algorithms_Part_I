@@ -21,12 +21,12 @@ _Features to implement:_ NA
 
 ## Week 4: [8puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 Solving an 8puzzle game using priority queue and A* search algorithm.  
-_Completed:_93%  
+_Completed:_ 93%  
 _Features to implement:_ NA  
 
 ## Week 5: [Kdtree](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
 Given a set of random points use kd-trees to find nearest neighbour and all points in a given range.  
-_Completed:_88%  
+_Completed:_ 88%  
 _Features to implement:_  
 * Corner cases in nearest neghbour search. Points in opposite branch of kd-tree are closer.
 
